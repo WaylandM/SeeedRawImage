@@ -1,4 +1,4 @@
-  #pragma once
+#pragma once
 #include<stdint.h>
 #include<SD/Seeed_SD.h>
 
